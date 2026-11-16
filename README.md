@@ -1,5 +1,7 @@
 # Spotify Unique Playlist
-
+> [!WARNING]
+> this completely vibecoded and there may be issues
+> who knows
 A dependency-free Python tool that parses your Spotify streaming history and creates a playlist containing every unique song you have ever played. Requires Python 3.10 or newer; no third-party packages.
 
 It understands both current and legacy Spotify data exports, deduplicates songs by Spotify track URI, keeps play counts and listening dates, can filter by minimum play count and artist genre, and uses the current Spotify Web API (2026 endpoints).
